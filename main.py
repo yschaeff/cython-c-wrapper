@@ -1,3 +1,3 @@
-import pyexamples
+import foo
 
-pyexamples.py_hello(b"world")
+foo.py_hello(b"world")
